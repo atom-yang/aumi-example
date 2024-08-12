@@ -5,11 +5,5 @@ export default defineAUMIConfig({
     { path: "/", component: "index" },
     { path: "/docs", component: "docs" },
   ],
-  npmClient: 'pnpm',
-  lessLoader: {},
-  cssLoaderModules: {
-    auto: true,
-  },
-  autoCSSModules: true,
-  react: {},
+  npmClient: 'pnpm'
 });
