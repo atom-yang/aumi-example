@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "umi": "4.3.0",
-    "@aumi/aumi": "0.1.3"
+    "@aumi/aumi": "0.1.4"
   },
   "devDependencies": {
     "@types/react": "^18.0.33",
